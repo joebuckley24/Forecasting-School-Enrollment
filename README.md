@@ -2,7 +2,7 @@
 
 The aim of this project is to forecast student enrollment in three school districts in New Jersey: Passaic, Hackensack, and Elizabeth. 
 This project uses a bespoke Monte Carlo simulation to project enrollment 5 years into the future based on 20 years of historical data.
-All code was created by the author, Joe Buckley, on behalf of [Statistical Forecasting, LLC](www.statforecast.com), 
+All code was created by the author, Joe Buckley, on behalf of [Statistical Forecasting, LLC](http://www.statforecast.com), 
 and the output of the experiment resulted in the paper 
 [Using Multiple Methods to Provide Prediction Bands of K-12 Enrollment Projections](https://link.springer.com/article/10.1007/s11113-019-09533-2).
 The input to the forecast is publically available district-level school enrollment data, conveniently aggregated into one Excel file.
